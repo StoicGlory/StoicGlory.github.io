@@ -1,4 +1,4 @@
-| Future Things |  Past Things  |
+| Future Projects |  Past Projects  |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 2026-2027 Trip  | Reading Buddies  |
+| Monastery Trip  | 2026 Field Trip  |
