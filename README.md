@@ -6,7 +6,8 @@
 | Monastery Trip  | 2026 Field Trip  |
 
 
-Members 
+### Members:
+
 | 7th Grade: | 8th | 9th Grade | 10th Grade | 11th-12th Grade|
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ---------- | --- | --------- | ---------- | -------------- |
 | Lydia B.  | Ava K. | Xavier M. | Polydoros M. | William V. |
