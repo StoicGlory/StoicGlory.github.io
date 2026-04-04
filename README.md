@@ -1,9 +1,7 @@
 
-######MY MOM IS EXTREMELY UNBELIEVABLY FAT
+#MY MOM IS EXTREMELY UNBELIEVABLY FAT
 
-
-
-####SJCA STUDENT GOVERNMENT PROJECTS
+###SJCA STUDENT GOVERNMENT PROJECTS
 
 | Future Projects |  Past Projects  |
 | ------------- | ------------- |
